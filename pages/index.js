@@ -1,3 +1,4 @@
+/* eslint-disable quotes */
 import { Footer, Navbar } from "../components";
 import Placeholder from "../components/Placeholder";
 import {
